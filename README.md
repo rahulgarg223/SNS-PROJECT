@@ -15,7 +15,7 @@ This repository contains code for a project on signal processing and systems ana
 1. Clone the repository to your local machine:
 
     ```
-    git clone https://github.com/rahulgarg223/Filter-Identification-Using-Convolution-Correlation.git
+    git clone https://github.com/rahulgarg223/SNS-PROJECT.git
     ```
 
 2. Install the required dependencies:
