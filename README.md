@@ -10,3 +10,22 @@ This repository contains code for a project on signal processing and systems ana
 - Convolution of filters with input signal to obtain filtered outputs.
 - Correlation-based comparison between filtered outputs and given output signal.
 
+## Usage
+
+1. Clone the repository to your local machine:
+
+    ```
+    git clone https://github.com/rahulgarg223/Filter-Identification-Using-Convolution-Correlation.git
+    ```
+
+2. Install the required dependencies:
+
+    ```
+    pip install numpy scipy
+    ```
+
+3. Navigate to the cloned repository directory:
+
+    ```
+    cd SNS-PROJECT
+    ```
